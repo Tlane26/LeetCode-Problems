@@ -1,5 +1,7 @@
 #include <iostream>
 #include <unordered_set>
+#include <vector>
+#include <algorithm>    // std::sort
 
 using namespace std;
 
